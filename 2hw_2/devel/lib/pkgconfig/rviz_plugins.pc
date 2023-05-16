@@ -1,0 +1,8 @@
+prefix=/home/ok/Motion_planning_hw/2hw_2/devel
+
+Name: rviz_plugins
+Description: Description of rviz_plugins
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

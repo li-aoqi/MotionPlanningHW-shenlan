@@ -1,0 +1,2 @@
+grid_path_searcher:rviz_plugins:waypoint_generator
+-DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=Yes -DCATKIN_DEVEL_PREFIX=/home/ok/Motion_planning_hw/4hw_4/devel -DCMAKE_INSTALL_PREFIX=/home/ok/Motion_planning_hw/4hw_4/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/ok/Motion_planning_hw/3hw_3/devel
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.1
+Cflags: -I/home/ok/Motion_planning_hw/3hw_3/src/grid_path_searcher/include
+Libs: -L${prefix}/lib 
+Requires: 
