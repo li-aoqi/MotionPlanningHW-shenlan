@@ -1,0 +1,20 @@
+function Q = getQ(n_seg, n_order, ts)
+    Q = [];
+    for k = 1:n_seg
+        Q_k = zeros(8,8);
+        %#####################################################
+        % STEP 1.1: calculate Q_k of the k-th segment 
+        %
+        %
+        %
+        %
+        for i=5:n_order+1
+            for l=5:n_order+1
+                L=factorial(i)/factorial(n_order+1-)
+                Q(i,l)
+                
+                
+        
+        Q = blkdiag(Q, Q_k);
+    end
+end
