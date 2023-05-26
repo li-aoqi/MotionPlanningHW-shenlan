@@ -1,0 +1,2 @@
+lec5_hw
+-DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=Yes -DCATKIN_DEVEL_PREFIX=/home/ok/motion-planning/hw_5/devel -DCMAKE_INSTALL_PREFIX=/home/ok/motion-planning/hw_5/install -G Unix Makefiles
